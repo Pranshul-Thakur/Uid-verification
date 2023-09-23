@@ -7,7 +7,6 @@ Future<void> signUpWithEmailAndPassword(String email, String password) async {
       email: email,
       password: password,
     );
-    // You can now access the UID of the newly created user as userCredential.user.uid
     String uid = userCredential.user.uid;
     print('User UID: $uid');
   } catch (e) {
