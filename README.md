@@ -1,2 +1,1 @@
-# Uid-verification
-Verifies User id using flutter and firebase
+The Automatic UID Generator is a robust and efficient system developed using the Flutter framework, Dart programming language, and Firebase as the backend database. It is designed to automate the generation of unique identifiers for a wide range of use cases within a mobile application.
